@@ -32,6 +32,14 @@ Vaccine Distribution Record Keeping App
 </ul>
 </i>
 
+[<img src="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App/blob/main/web/icons/app_pic_1.png" width=400 height=400>]
+[<img src="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App/blob/main/web/icons/app_pic_2.png" width=400 height=400>]
+[<img src="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App/blob/main/web/icons/app_pic_3.png" width=400 height=400>]
+[<img src="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App/blob/main/web/icons/app_pic_4.png" width=400 height=400>]
+[<img src="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App/blob/main/web/icons/app_pic_5.png" width=400 height=400>]
+[<img src="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App/blob/main/web/icons/app_pic_6.png" width=400 height=400>]
+[<img src="https://github.com/AmitXShukla/Covid-Vaccine-Distribution-Management-App/blob/main/web/icons/app_pic_7.png" width=400 height=400>]
+
 ## Getting Started
 
 This project is a community version and is absolutely free for private use.<br/>
